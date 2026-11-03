@@ -1,0 +1,14 @@
+# Executable files
+*.exe
+
+# Object files
+*.o
+
+# Log files
+*.log
+
+# Build directories
+build/
+
+# VS Code workspace settings
+.vscode/
